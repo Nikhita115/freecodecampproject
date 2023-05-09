@@ -1,0 +1,28 @@
+img{
+    display:block;
+    max-width:100%;
+    height:auto;
+    
+  
+  }
+  h1{
+    text-align:center;
+    color:red;
+  }
+  
+  #img-caption{
+    text-align:center;
+    padding:0;
+  }
+  #tribute-info{
+    text-align:center;
+    font-weight:30px;
+    color:rgb(168, 57, 75);
+    position:relative;
+    top:13px;
+  
+  }
+  html{
+    background-color:rgb(210, 202, 202);
+  }
+  

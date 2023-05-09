@@ -1,0 +1,78 @@
+.tenor1, .tenor2, .tenor3{
+    border: 1px solid black;
+    height:40%;
+    width:30%;
+    background-color:rgb(169, 164, 164);
+  
+    flex-direction:column;
+    justify-content:center;
+   display: inline-block;
+  }
+  #nav-bar{
+    top:0;
+    position:fixed;
+    right:0;
+    
+    
+  }
+  #header-img{
+    width:30%;
+    display:flex;
+    
+  }
+  @media screen and (max-width: 600px) {
+    body {
+      background-color: white;
+    }
+  }
+  
+  
+  li a {
+    display:inline;
+    width:80%;
+    float:left;
+  
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  
+  }
+  li{
+    float:left;
+  }
+  
+  li a {
+    display: block;
+    color:blue;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  .home{
+    text-align:center;
+  }
+  #submit{
+    background-color:rgba(198, 198, 13, 0.675);
+  }
+  .submit{
+    background-color:rgba(198, 198, 13, 0.675);
+  
+  }
+  h4{
+    background-color:rgb(227, 214, 214);
+  }
+  html{
+    background-color:rgb(226, 213, 213);
+  }
+  #feature {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 200px;
+    margin-top: 50px;
+  }

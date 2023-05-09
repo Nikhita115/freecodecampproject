@@ -1,0 +1,51 @@
+h1,p
+{
+  text-align:center;
+}
+fieldset
+{
+  border:none;
+
+  
+}
+label
+{
+  display:block;
+  
+
+}
+
+#survey-form{
+  background-color:rgb(167, 167, 198);
+  width:100%;
+  height:100%;
+  align-items:center;
+  position:auto;
+
+}
+html{
+  background-color:rgb(72, 72, 159);
+}
+#submit{
+  background-color:rgb(29, 133, 29);
+  width:50vw;
+}
+#name{
+  width:50vw;
+
+
+}
+#email{
+  width:50vw;
+
+}
+#number{
+   width:50vw;
+}
+#dropdown{
+   width:50vw;
+}
+.place{
+  width:50vw;
+
+}
